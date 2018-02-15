@@ -19,3 +19,16 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/.idea/encodings.xml
+.idea/dictionaries/
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/reactnd-udacimeals-complete.iml
+.idea/workspace.xml
+src/actions/
+yarn.lock
+/.idea/vcs.xml
+/.idea/codeStyles/codeStyleConfig.xml
+.idea/codeStyles/
