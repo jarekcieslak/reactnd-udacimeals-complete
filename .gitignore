@@ -27,7 +27,6 @@ yarn-error.log*
 .idea/modules.xml
 .idea/reactnd-udacimeals-complete.iml
 .idea/workspace.xml
-src/actions/
 yarn.lock
 /.idea/vcs.xml
 /.idea/codeStyles/codeStyleConfig.xml
